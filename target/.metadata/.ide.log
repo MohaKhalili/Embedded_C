@@ -2,3 +2,398 @@
 
 
 2020-03-24 17:51:51,170 [INFO] Activator:177 - !SESSION log4j initialized
+2020-03-24 18:14:45,115 [INFO] Activator:176 - 
+
+
+2020-03-24 18:14:45,118 [INFO] Activator:177 - !SESSION log4j initialized
+2020-03-24 18:15:05,460 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-03-24 18:15:05,478 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2020-03-24 18:15:05,530 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2020-03-24 18:15:05,531 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-03-24 18:15:05,531 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-03-24 18:15:05,543 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:05,544 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:05,546 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:05,548 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:05,549 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:05,805 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-03-24 18:15:05,947 [INFO] RulesReader:52 - Compatibility file has been processed (208 Rules)
+2020-03-24 18:15:06,068 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_242
+2020-03-24 18:15:06,068 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2020-03-24 18:15:06,069 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2020-03-24 18:15:06,069 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-03-24 18:15:06,070 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-03-24 18:15:06,070 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,071 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,071 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,071 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,071 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,072 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,072 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,072 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,072 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,072 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,073 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,073 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,073 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-03-24 18:15:06,209 [INFO] MainPanel:181 - HeapMemory: 268435456
+2020-03-24 18:15:06,307 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2020-03-24 18:15:06,307 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2020-03-24 18:15:06,307 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-03-24 18:15:06,307 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-03-24 18:15:06,308 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,308 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,308 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,309 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,309 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,309 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,309 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,309 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,309 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,311 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-24 18:15:06,311 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,311 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Moha\.stmcufinder\plugins\mcufinder/ => C:\Users\Moha\.stmcufinder\plugins\mcufinder
+2020-03-24 18:15:06,311 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Moha\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-03-24 18:15:06,334 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-03-24 18:15:06,337 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, tutovideos]
+2020-03-24 18:15:06,338 [INFO] PluginManage:292 - Check plugin analytics
+2020-03-24 18:15:06,347 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-03-24 18:15:06,347 [INFO] PluginManage:292 - Check plugin clock
+2020-03-24 18:15:06,363 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-03-24 18:15:06,363 [INFO] PluginManage:292 - Check plugin ddr
+2020-03-24 18:15:06,367 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-03-24 18:15:06,367 [INFO] PluginManage:292 - Check plugin filemanager
+2020-03-24 18:15:06,509 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-03-24 18:15:06,509 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-03-24 18:15:06,522 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-03-24 18:15:06,522 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-03-24 18:15:06,536 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-03-24 18:15:06,536 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-03-24 18:15:06,570 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-03-24 18:15:06,570 [INFO] PluginManage:292 - Check plugin power
+2020-03-24 18:15:06,584 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-03-24 18:15:06,584 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-03-24 18:15:06,603 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-03-24 18:15:06,603 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-03-24 18:15:06,680 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Moha/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 39 ms. number of Sw pack : 10
+2020-03-24 18:15:06,694 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-03-24 18:15:06,694 [INFO] PluginManage:292 - Check plugin tools
+2020-03-24 18:15:06,698 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-03-24 18:15:06,698 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-03-24 18:15:06,700 [INFO] PluginManage:347 - Ignore plugin tutovideos (category:base)
+2020-03-24 18:15:06,700 [INFO] PluginManage:292 - Check plugin updater
+2020-03-24 18:15:06,712 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-03-24 18:15:06,712 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-03-24 18:15:06,934 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-03-24 18:15:07,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,056 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-03-24 18:15:07,060 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,061 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-03-24 18:15:07,065 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,065 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-03-24 18:15:07,068 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,069 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-03-24 18:15:07,073 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,073 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-03-24 18:15:07,077 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,078 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-03-24 18:15:07,088 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,090 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-03-24 18:15:07,093 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,093 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-03-24 18:15:07,100 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,100 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-03-24 18:15:07,109 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,109 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-03-24 18:15:07,112 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,112 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-03-24 18:15:07,116 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,116 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-03-24 18:15:07,125 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,125 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-03-24 18:15:07,131 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,131 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-03-24 18:15:07,135 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,135 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-03-24 18:15:07,138 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,174 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-03-24 18:15:07,179 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,180 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-03-24 18:15:07,185 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,185 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-03-24 18:15:07,191 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,191 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-03-24 18:15:07,194 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,194 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-03-24 18:15:07,201 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,202 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-03-24 18:15:07,210 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,210 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-03-24 18:15:07,217 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,218 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-03-24 18:15:07,224 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,225 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-03-24 18:15:07,236 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,241 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-03-24 18:15:07,244 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,245 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-03-24 18:15:07,253 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,254 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-03-24 18:15:07,260 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,260 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-03-24 18:15:07,265 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,265 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-03-24 18:15:07,271 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,272 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-03-24 18:15:07,275 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,275 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-03-24 18:15:07,281 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,281 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-03-24 18:15:07,285 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,287 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-03-24 18:15:07,292 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,292 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-03-24 18:15:07,295 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,296 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-03-24 18:15:07,299 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,300 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-03-24 18:15:07,304 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-03-24 18:15:07,305 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-03-24 18:15:07,975 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-03-24 18:15:07,976 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-03-24 18:15:08,242 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-03-24 18:15:08,454 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-03-24 18:15:08,458 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-03-24 18:15:08,459 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-03-24 18:15:08,464 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-03-24 18:15:08,465 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2020-03-24 18:15:08,469 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin\STM32_Programmer_CLI.exe -l
+2020-03-24 18:15:09,072 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2020-03-24 18:15:09,098 [INFO] Updater:886 - Updater Version found : 5.6.0
+2020-03-24 18:15:09,140 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-03-24 18:15:09,520 [INFO] MainUpdater:2230 - connection check result : 10
+2020-03-24 18:15:09,523 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-03-24 18:15:09,524 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2020-03-24 18:15:09,585 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-03-24 18:15:09,742 [INFO] MainUpdater:2230 - connection check result : 10
+2020-03-24 18:15:09,743 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-03-24 18:15:09,755 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/Moha/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-03-24 18:15:09,807 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Moha/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 9 ms. number of Sw pack : 11
+2020-03-24 18:15:09,808 [INFO] Engine:366 - softwarePackList size : 11
+2020-03-24 18:15:09,817 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-AI have been done, and update is requested
+2020-03-24 18:15:09,828 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-03-24 18:15:09,839 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE2 have been done, and update is requested
+2020-03-24 18:15:09,850 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-03-24 18:15:09,932 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-03-24 18:15:09,950 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-03-24 18:15:09,953 [INFO] DbMcusXml:110 - Load MCU database from C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/families.xml
+2020-03-24 18:15:10,208 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-03-24 18:15:10,233 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-03-24 18:15:10,241 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-03-24 18:15:10,257 [INFO] Engine:382 - compute dependency for SwPack X-CUBE-TOUCHGFX have been done, no update is requested
+2020-03-24 18:15:10,259 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-ALGOBUILD have been done, and update is requested
+2020-03-24 18:15:10,283 [INFO] Engine:378 - compute dependency for SwPack CMSIS have been done, and update is requested
+2020-03-24 18:15:10,292 [INFO] Engine:382 - compute dependency for SwPack FreeRTOS have been done, no update is requested
+2020-03-24 18:15:10,518 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639492727, 1584639492728]
+2020-03-24 18:15:10,519 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0 CMSIS id : 1584639491973
+2020-03-24 18:15:10,519 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639492727, 1584639492728]
+2020-03-24 18:15:10,519 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0 CMSIS id : 1584639491975
+2020-03-24 18:15:10,520 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639494959, 1584639492728]
+2020-03-24 18:15:10,520 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0+ CMSIS id : 1584639491977
+2020-03-24 18:15:10,520 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639494959, 1584639492728]
+2020-03-24 18:15:10,520 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0+ CMSIS id : 1584639491979
+2020-03-24 18:15:10,521 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639493541, 1584639492728]
+2020-03-24 18:15:10,521 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM1 CMSIS id : 1584639491981
+2020-03-24 18:15:10,521 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639493541, 1584639492728]
+2020-03-24 18:15:10,521 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM1 CMSIS id : 1584639491983
+2020-03-24 18:15:10,522 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495995, 1584639492728]
+2020-03-24 18:15:10,522 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM3 CMSIS id : 1584639491985
+2020-03-24 18:15:10,522 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495995, 1584639492728]
+2020-03-24 18:15:10,522 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM3 CMSIS id : 1584639491987
+2020-03-24 18:15:10,522 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495413, 1584639492728]
+2020-03-24 18:15:10,522 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM4 CMSIS id : 1584639491989
+2020-03-24 18:15:10,523 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495413, 1584639492728]
+2020-03-24 18:15:10,523 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM4 CMSIS id : 1584639491991
+2020-03-24 18:15:10,523 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495253, 1584639492728]
+2020-03-24 18:15:10,523 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM7 CMSIS id : 1584639491993
+2020-03-24 18:15:10,523 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495253, 1584639492728]
+2020-03-24 18:15:10,523 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM7 CMSIS id : 1584639491995
+2020-03-24 18:15:10,524 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639492814, 1584639492728]
+2020-03-24 18:15:10,524 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM23 CMSIS id : 1584639491997
+2020-03-24 18:15:10,524 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639492814, 1584639492728]
+2020-03-24 18:15:10,524 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM23 CMSIS id : 1584639491999
+2020-03-24 18:15:10,524 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639494755, 1584639492728]
+2020-03-24 18:15:10,524 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM33 CMSIS id : 1584639492001
+2020-03-24 18:15:10,525 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639494755, 1584639492728]
+2020-03-24 18:15:10,525 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM33 CMSIS id : 1584639492003
+2020-03-24 18:15:10,525 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639496039, 1584639492728]
+2020-03-24 18:15:10,525 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM35P CMSIS id : 1584639492005
+2020-03-24 18:15:10,525 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639496039, 1584639492728]
+2020-03-24 18:15:10,525 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM35P CMSIS id : 1584639492007
+2020-03-24 18:15:10,525 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495629, 1584639492728]
+2020-03-24 18:15:10,526 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC000 CMSIS id : 1584639492009
+2020-03-24 18:15:10,526 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495629, 1584639492728]
+2020-03-24 18:15:10,526 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC000 CMSIS id : 1584639492011
+2020-03-24 18:15:10,526 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495437, 1584639492728]
+2020-03-24 18:15:10,526 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC300 CMSIS id : 1584639492013
+2020-03-24 18:15:10,526 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495437, 1584639492728]
+2020-03-24 18:15:10,527 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC300 CMSIS id : 1584639492015
+2020-03-24 18:15:10,527 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639493860, 1584639492728]
+2020-03-24 18:15:10,527 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MBL CMSIS id : 1584639492017
+2020-03-24 18:15:10,527 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639493860, 1584639492728]
+2020-03-24 18:15:10,527 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MBL CMSIS id : 1584639492019
+2020-03-24 18:15:10,527 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639494495, 1584639492728]
+2020-03-24 18:15:10,528 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MML CMSIS id : 1584639492021
+2020-03-24 18:15:10,528 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639494495, 1584639492728]
+2020-03-24 18:15:10,528 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MML CMSIS id : 1584639492023
+2020-03-24 18:15:10,528 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639496103, 1584639492728]
+2020-03-24 18:15:10,528 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv81MML CMSIS id : 1584639492025
+2020-03-24 18:15:10,528 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639493046, 1584639492728]
+2020-03-24 18:15:10,528 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCA5 CMSIS id : 1584639492027
+2020-03-24 18:15:10,529 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495308, 1584639492728]
+2020-03-24 18:15:10,529 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCA7 CMSIS id : 1584639492029
+2020-03-24 18:15:10,529 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495617, 1584639492728]
+2020-03-24 18:15:10,529 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCA9 CMSIS id : 1584639492031
+2020-03-24 18:15:10,529 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639492714]
+2020-03-24 18:15:10,529 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : OS Tick GTIM id : 1584639492041
+2020-03-24 18:15:10,529 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1584639495290, 1584639492797]
+2020-03-24 18:15:10,530 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : RTOS RTX IFX id : 1584639492115
+2020-03-24 18:15:10,542 [WARN] ModelIntegratedPack:50 - Cannot find a middleware corresponding to integrated pack FreeRTOS
+2020-03-24 18:15:10,600 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/Moha/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-03-24 18:15:10,659 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Moha/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 8 ms. number of Sw pack : 11
+2020-03-24 18:15:10,716 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/Moha/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-03-24 18:15:10,734 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-03-24 18:15:11,198 [INFO] DbMcusJson:90 - JSON generation date=Tue Feb 11 18:32:54 IRST 2020 (1581433374)
+2020-03-24 18:15:12,160 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2020-03-24 18:15:12,162 [INFO] ApiDb:158 - Load user favorites file C:\Users\Moha/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-03-24 18:15:12,162 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-03-24 18:15:12,162 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2020-03-24 18:15:13,081 [INFO] DbMcusAds:143 - JSON generation date=Wed Feb 20 20:16:15 IRST 2019 (1550681175)
+2020-03-24 18:15:24,499 [INFO] ServerAccessManage:348 - Download File 
+2020-03-24 18:15:26,988 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-03-24 18:15:27,028 [INFO] McuDetailPanel:181 - Set advertising image to C:/Users/Moha/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2020-03-24 18:15:27,899 [INFO] ServerAccessManage:348 - Download File mcusAds.json._tmp_
+2020-03-24 18:15:27,910 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-24 18:15:28,269 [INFO] ServerAccessManage:348 - Download File mcusDocs.json._tmp_
+2020-03-24 18:15:29,056 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-24 18:15:29,362 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json._tmp_
+2020-03-24 18:16:09,996 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-24 18:16:10,276 [INFO] ServerAccessManage:348 - Download File boardsDocs.json._tmp_
+2020-03-24 18:16:11,551 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-24 18:16:11,889 [INFO] ServerAccessManage:348 - Download File boards.json._tmp_
+2020-03-24 18:16:14,607 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-24 18:16:26,238 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2020-03-24 18:16:28,334 [INFO] FileExtend:225 - Unzip File : crdb.zip
+2020-03-24 18:16:28,340 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-03-24 18:16:28,383 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-24 18:16:28,384 [INFO] DbMcusAds:143 - JSON generation date=Thu Mar 12 18:38:29 IRST 2020 (1584025709)
+2020-03-24 18:16:28,390 [INFO] DbMcusDocs:142 - JSON generation date=Wed Feb 26 12:23:47 IRST 2020 (1582707227)
+2020-03-24 18:16:28,629 [INFO] DbMcusDocs:77 - Found 571 MCUs documents
+2020-03-24 18:16:28,632 [INFO] ApiDb:186 - Save user favorites file C:\Users\Moha/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-03-24 18:16:28,632 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-03-24 18:16:28,633 [INFO] DbMcusXml:110 - Load MCU database from C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/families.xml
+2020-03-24 18:16:29,068 [INFO] DbMcusJson:90 - JSON generation date=Wed Feb 26 12:23:47 IRST 2020 (1582707227)
+2020-03-24 18:16:29,473 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2020-03-24 18:16:29,474 [INFO] ApiDb:158 - Load user favorites file C:\Users\Moha/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-03-24 18:16:29,474 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-03-24 18:16:29,474 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2020-03-24 18:16:29,539 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-03-24 18:16:29,805 [INFO] DbBoardsDocs:131 - JSON generation date=Wed Feb 26 12:23:47 IRST 2020 (1582707227)
+2020-03-24 18:16:29,818 [INFO] DbBoardsPdsc:92 - Found 22 items
+2020-03-24 18:16:29,821 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-03-24 18:16:29,825 [INFO] DbBoardsPdsc:92 - Found 28 items
+2020-03-24 18:16:29,827 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-03-24 18:16:29,834 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-03-24 18:16:29,840 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-03-24 18:16:29,842 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-03-24 18:16:29,845 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-03-24 18:16:29,852 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-03-24 18:16:29,853 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-03-24 18:16:29,854 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-03-24 18:16:29,855 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-03-24 18:16:29,855 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-03-24 18:16:29,855 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-03-24 18:16:29,866 [INFO] DbBoardsJson:80 - JSON generation date=Tue Feb 11 17:23:55 IRST 2020 (1581429235)
+2020-03-24 18:16:29,873 [INFO] DbBoards:120 - Found 145 boards (142 are supported by CubeMX)
+2020-03-24 18:16:29,878 [INFO] DbBoardsDocs:131 - JSON generation date=Wed Feb 26 12:23:47 IRST 2020 (1582707227)
+2020-03-24 18:16:29,892 [INFO] DbBoardsDocs:70 - Found 173 boards documents
+2020-03-24 18:16:29,895 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-03-24 18:16:29,895 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-03-24 18:16:29,896 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-03-24 18:16:29,896 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-03-24 18:16:29,896 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2020-03-24 18:16:29,897 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-03-24 18:16:29,897 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-03-24 18:16:29,897 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-03-24 18:16:29,898 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-03-24 18:16:29,898 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-03-24 18:16:29,898 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-03-24 18:16:29,898 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-03-24 18:16:29,898 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-03-24 18:16:29,899 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-03-24 18:16:29,899 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-03-24 18:16:29,899 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-03-24 18:16:29,900 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-03-24 18:16:31,223 [INFO] ApiDb:158 - Load user favorites file C:\Users\Moha/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-03-24 18:16:31,223 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-03-24 18:16:31,224 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-03-24 18:16:31,231 [INFO] DbBoardsDocs:70 - Found 346 boards documents
+2020-03-24 18:16:31,232 [INFO] ApiDb:186 - Save user favorites file C:\Users\Moha/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-03-24 18:16:31,233 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-03-24 18:16:31,236 [INFO] DbBoardsPdsc:92 - Found 22 items
+2020-03-24 18:16:31,238 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-03-24 18:16:31,241 [INFO] DbBoardsPdsc:92 - Found 28 items
+2020-03-24 18:16:31,242 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-03-24 18:16:31,246 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-03-24 18:16:31,251 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-03-24 18:16:31,253 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-03-24 18:16:31,254 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-03-24 18:16:31,256 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-03-24 18:16:31,256 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-03-24 18:16:31,258 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-03-24 18:16:31,258 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-03-24 18:16:31,259 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-03-24 18:16:31,259 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-03-24 18:16:31,268 [INFO] DbBoardsJson:80 - JSON generation date=Tue Feb 11 17:23:55 IRST 2020 (1581429235)
+2020-03-24 18:16:31,276 [INFO] DbBoards:120 - Found 145 boards (142 are supported by CubeMX)
+2020-03-24 18:16:31,278 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-03-24 18:16:31,278 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-03-24 18:16:31,280 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-03-24 18:16:31,280 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-03-24 18:16:31,280 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2020-03-24 18:16:31,280 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-03-24 18:16:31,281 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-03-24 18:16:31,281 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-03-24 18:16:31,282 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-03-24 18:16:31,282 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-03-24 18:16:31,282 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-03-24 18:16:31,282 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-03-24 18:16:31,282 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-03-24 18:16:31,283 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-03-24 18:16:31,283 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-03-24 18:16:31,283 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-03-24 18:16:31,283 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-03-24 18:16:31,284 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-03-24 18:16:31,284 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-03-24 18:16:31,284 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-03-24 18:16:31,284 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-03-24 18:16:31,284 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-03-24 18:16:31,284 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-03-24 18:16:32,012 [INFO] ApiDb:158 - Load user favorites file C:\Users\Moha/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-03-24 18:16:32,013 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-03-24 18:16:32,013 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-03-24 18:16:32,200 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-03-24 18:16:32,201 [INFO] MultiScanPanel:739 - Refresh data is succesful
+2020-03-24 18:16:32,203 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-03-24 18:16:32,681 [INFO] ServerAccessManage:348 - Download File 
+2020-03-24 18:16:35,000 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-03-24 18:16:35,071 [INFO] BoardDetailPanel:180 - Set advertising image to C:/Users/Moha/STM32Cube/Repository/\STM32L4_MCUs_N4239S_big.jpg
+2020-03-24 18:16:35,094 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-03-24 18:16:35,241 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Moha\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-03-24 18:17:56,557 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.25.0
